@@ -1,0 +1,14 @@
+C:\MSSA\CSC 205 C Sharp\Programs\SudokuSolver2\bin\Debug\SudokuSolver2.exe.config
+C:\MSSA\CSC 205 C Sharp\Programs\SudokuSolver2\bin\Debug\SudokuSolver2.exe
+C:\MSSA\CSC 205 C Sharp\Programs\SudokuSolver2\bin\Debug\SudokuSolver2.pdb
+C:\MSSA\CSC 205 C Sharp\Programs\SudokuSolver2\obj\Debug\SudokuSolver2.csprojAssemblyReference.cache
+C:\MSSA\CSC 205 C Sharp\Programs\SudokuSolver2\obj\Debug\SudokuSolver2.csproj.CoreCompileInputs.cache
+C:\MSSA\CSC 205 C Sharp\Programs\SudokuSolver2\obj\Debug\SudokuSolver2.exe
+C:\MSSA\CSC 205 C Sharp\Programs\SudokuSolver2\obj\Debug\SudokuSolver2.pdb
+C:\Users\Richa\Documents\GitHub\Learn-CSharp\Sudoku Solver\SudokuSolver2\bin\Debug\SudokuSolver2.exe.config
+C:\Users\Richa\Documents\GitHub\Learn-CSharp\Sudoku Solver\SudokuSolver2\bin\Debug\SudokuSolver2.exe
+C:\Users\Richa\Documents\GitHub\Learn-CSharp\Sudoku Solver\SudokuSolver2\bin\Debug\SudokuSolver2.pdb
+C:\Users\Richa\Documents\GitHub\Learn-CSharp\Sudoku Solver\SudokuSolver2\obj\Debug\SudokuSolver2.csprojAssemblyReference.cache
+C:\Users\Richa\Documents\GitHub\Learn-CSharp\Sudoku Solver\SudokuSolver2\obj\Debug\SudokuSolver2.csproj.CoreCompileInputs.cache
+C:\Users\Richa\Documents\GitHub\Learn-CSharp\Sudoku Solver\SudokuSolver2\obj\Debug\SudokuSolver2.exe
+C:\Users\Richa\Documents\GitHub\Learn-CSharp\Sudoku Solver\SudokuSolver2\obj\Debug\SudokuSolver2.pdb
